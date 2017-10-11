@@ -1,5 +1,7 @@
 # Deep Voice
 
+## decide to fork this since the original author has abandon this project
+
 [![Join the chat at https://gitter.im/deep-voice/Lobby](https://badges.gitter.im/deep-voice/Lobby.svg)](https://gitter.im/deep-voice/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
 *Based on the [Deep Voice paper](https://arxiv.org/pdf/1702.07825.pdf).*
 
